@@ -1,0 +1,10 @@
+channels==3.0.4
+Django==3.2.9
+django_redis==5.1.0
+djangorestframework==3.13.1
+drf_yasg==1.20.0
+paramiko==2.9.2
+PyMySQL==1.0.2
+requests==2.22.0
+django-cors-headers==3.10.1
+channels_redis==3.3.1
